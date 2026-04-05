@@ -26,6 +26,9 @@ This project analyzes **50,000 food orders** to uncover patterns in customer beh
     - Seaborn,
     - Numpy
 * SQL (PostgreSQL)
+* Power BI Desktop
+* ChatGPT
+* Kaggle
 
 
 ---
